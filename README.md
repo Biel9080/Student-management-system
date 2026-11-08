@@ -107,6 +107,19 @@ Durante este projeto foram praticados:
 
 ---
 
+## 📸 Screenshots
+
+### Tela inicial
+![Tela inicial](student2.png)
+
+### Funcionamento
+![Funcionamento](student3.png)
+
+### Resultado
+![Resultado](student.png)
+
+---
+
 ## 📄 Licença
 
 MIT License.
